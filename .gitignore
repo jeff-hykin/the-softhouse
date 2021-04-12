@@ -623,3 +623,5 @@ settings/home/.gitconfig
 settings/home/.mongorc.js
 settings/home/.ungitrc
 settings/home/.vuerc
+settings/home/.vuerc
+settings/home/.cargo/bin

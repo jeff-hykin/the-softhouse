@@ -1,0 +1,4 @@
+todo:
+    - step1:
+        - hash a file
+        - hash a folder recursively
